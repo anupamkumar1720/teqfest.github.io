@@ -1,0 +1,729 @@
+div {
+    display: block;
+}
+
+body {
+    margin: 0;
+    font-family: BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fce200;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+.h1, h1 {
+    font-size: 2.5rem;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 200;
+    line-height: 1.2;
+    color: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+@media (min-width: 768px)
+.container {
+    max-width: 720px;
+}
+
+@media (min-width: 576px)
+.container {
+    max-width: 540px;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.icqqJB {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    width: 450px;
+    height: 240px;
+    margin: 20px 0px;
+}
+
+
+.ieiLyx {
+    font-size: 1em;
+    font-weight: 700;
+}
+.leucYH {
+    display: flex;
+    -webkit-box-align: baseline;
+    align-items: baseline;
+}
+
+.imZcNb {
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+.hUrIif {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.jwdTDs {
+    width: 8px;
+    flex-shrink: 0;
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+    border-left: 4px solid white;
+    border-right: none;
+    margin: 0px -4px 0px 0px;
+    box-sizing: border-box;
+}
+
+.fxpNlM {
+    width: 8px;
+    flex-shrink: 0;
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+    border-left: none;
+    border-right: 4px solid white;
+    margin: 0px 0px 0px -4px;
+}
+
+.emsvWl {
+    -webkit-box-flex: 2;
+    flex-grow: 2;
+    padding: 10px;
+}
+
+.iYsxqk {
+    font-size: large;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+.bsiuTb {
+    font-size: 0.8em;
+    margin-bottom: 0px;
+}
+
+.xsFyT {
+    font-size: large;
+    font-weight: 700;
+    margin-top: 0.4em;
+}
+
+/*/////////team///////////////*/
+
+.anupam {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/anupam.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+.shami {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/shami.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.baba {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/baba.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.ankit {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/ankit.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.lovepreet {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/lovepreet.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.saurabh {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/saurabh.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.lalit {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/lalit.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.ram {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/ram.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.aditi {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/adity.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.nishant {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/nishant.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.sarvada {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/sarvada.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.tanisha {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/tanisha.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.manteam {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../team/manteam.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.deepak {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/deepak.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.rudhrakshi {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/rudhrakshi.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.saiqaa{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/saiqaa.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.sagrika {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/sagrika.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.anshul {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/anshul.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.aditya  {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/aditya.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+.sakshi {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/sakshi.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.kanika {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/kanika.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.sahil  {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/sahil.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.duggallll {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/duggallll.JPG) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.sonalika {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/sonalika.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+
+.rohit1 {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/rohit1.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+
+
+
+
+
+
+.sagar {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/sagar.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.Navneet {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/navneet.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.Nandini {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/Nandini.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.nanika {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/nanika.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.gaurabh {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/gaurabh.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.ranveer {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/ranveer.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.krishna {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/krishna.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.oishee {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/oishee.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+.ayush{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/ayush.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.rishava {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/rishava.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.ADNAN {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/ADNAN.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.jaspreet {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/jaspreet.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.jagit{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/jagit.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.anupam {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/anupam.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.methil{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/methil.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.akhil{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/akhil.JPG) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.baba{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/baba.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.ncc{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/ncc.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.amandeep{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/amandeep.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.rohit{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/rohit.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+
+
+.manas{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/manas.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+.manat{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/manat.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+.abhisk{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/abhisk.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+.ankush {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/ankush.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.simranjit {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/simranjit.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.gurpreet{
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/gurpreet.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.malika {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/malika.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.paras {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/paras.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.shiv {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/shiv.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.tanisha {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/tanisha.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.jashandeep {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/jashandeep.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.tabita {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/tabita.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.gurpreet  {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/gurpreet.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.shehbaz {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/shehbazsingh.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.ketan {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/ketan.jpeg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.raviranjan {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/raviranjan.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.arun {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/arunkantdubey.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.akriti {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/aakrti.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.shubham {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/shubhamsharma.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.shashi {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(../about/shashibala.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.SIMRANJIT1 {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/SIMRANJIT1.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.rahual {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/rahual.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+.GURPREET1 {
+    height:calc(100% - 10px);
+    width: 180px;
+    filter: grayscale(100%);
+    background: url(./about/GURPREET1.jpg) center center / cover no-repeat;
+    margin: 5px;
+}
+
+
+
+
+
